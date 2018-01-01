@@ -1,0 +1,35 @@
+.content{
+	padding-top: 25%;
+	text-align: center;
+
+
+}
+hr {
+    width: 55%;
+    border-top: 1px solid #f8f8f8;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+
+body{
+	background-image: url("orange.jpg");
+
+	 height: 100%;
+    overflow: hidden;
+    color: rgb(249, 227, 0);
+}
+
+a{
+	color: rgb(249, 18, 12);
+	font-family: Inconsolata;
+}
+
+#title{
+	font-family: Oswald;
+	font-weight: 700;
+	color: rgb(249, 18, 12);
+}
+#underTitle{
+	font-family: Oswald;
+	color: rgb(249, 18, 12);
+}
